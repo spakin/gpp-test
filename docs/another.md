@@ -13,7 +13,7 @@ Do you like tables?  Here's a table:
 
 How about code?  I like Go, myself:
 
-```Go
+```go
 // This is a "Hello, world" program in Go.
 package main
 
