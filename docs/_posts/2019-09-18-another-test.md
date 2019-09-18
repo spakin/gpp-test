@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My second test of blog posts
+categories: [testing]
+tags: [blogs, typesetting]
 ---
 
 My blog post
