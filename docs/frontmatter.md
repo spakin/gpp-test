@@ -1,9 +1,0 @@
----
-layout: post
-title: Test of front matter
----
-
-Jekyll front matter test
-========================
-
-This page contains some Jekyll front matter.  Let's see what it does.  For instance, is the date {{ page.date }}?
