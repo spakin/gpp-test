@@ -23,3 +23,7 @@ func main() {
 	fmt.Println("Hello, 世界")
 }
 ```
+
+I don't know if GitHub supports Jekyll blog posts, but let's see…
+
+{{ content }}
