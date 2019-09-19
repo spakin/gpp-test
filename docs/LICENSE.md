@@ -1,5 +1,5 @@
-Copyright and license
-=====================
+---
+---
 
 The Clear BSD License
 
