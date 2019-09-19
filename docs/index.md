@@ -7,4 +7,4 @@ For now, here's a [link to boring stuff](another.md) and a [link to more boring 
 
 There's also a [page of content](content.md).
 
-See the [gpp-test copyright and license](LICENSE.md) or its [source file](github.com/spakin/gpp-test/LICENSE.md).
+See the [gpp-test copyright and license](github.com/spakin/gpp-test/LICENSE.md).
