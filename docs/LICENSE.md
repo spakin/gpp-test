@@ -1,3 +1,6 @@
+Copyright and license
+=====================
+
 The Clear BSD License
 
 Copyright © 2019 Scott Pakin  
