@@ -5,4 +5,4 @@ aux_links:
   "Download gpp-test from GitHub":
     - "//github.com/spakin/gpp-test"
 logo: "/assets/images/gpp-test-logo.png"
-footer-content: "Copyright &copy; 2019 Scott Pakin"
+footer_content: "Copyright &copy; 2019 Scott Pakin"
