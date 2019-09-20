@@ -1,1 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
+title: GitHub Project Pages Test
+description: My playing around with GitHub Project Pages
+aux_links:
+  "Download gpp-test from GitHub":
+    - "//github.com/spakin/gpp-test"
+logo: "/assets/images/gpp-test-logo.png"
+footer-content: "Copyright &copy; 2019 Scott Pakin"
