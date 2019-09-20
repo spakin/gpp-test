@@ -1,3 +1,7 @@
+---
+title: GitHub Project Pages test page
+---
+
 Documentation top level
 =======================
 
