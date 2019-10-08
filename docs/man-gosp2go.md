@@ -29,24 +29,24 @@ program.</p>
 <p style="margin-left:11%; margin-top: 1em"><b>-b</b>,
 <b>--build</b></p>
 
-<p style="margin-left:14%;">Compile the generated Go code
+<p style="margin-left:17%;">Compile the generated Go code
 to a plugin</p>
 
 <p style="margin-left:11%;"><b>-r</b>, <b>--run</b></p>
 
-<p style="margin-left:14%;">Both compile and, using
+<p style="margin-left:17%;">Both compile and, using
 <b>gosp-server</b>, execute the generated Go code</p>
 
 <p style="margin-left:11%;"><b>-t</b> <i>num</i>,
 <b>--max-top</b>=<i>num</i></p>
 
-<p style="margin-left:14%;">Allow at most <i>num</i>
+<p style="margin-left:17%;">Allow at most <i>num</i>
 &lt;?go:top ... ?&gt; blocks per file [default: 1]</p>
 
 <p style="margin-left:11%;"><b>-o</b> <i>file</i>,
 <b>--output</b>=<i>file</i></p>
 
-<p style="margin-left:14%;">Write output to file
+<p style="margin-left:17%;">Write output to file
 <i>file</i> (&quot;-&quot; = standard output, the default);
 the file type depends on whether <b>--build</b>,
 <b>--run</b>, or neither is also specified</p>
@@ -54,24 +54,24 @@ the file type depends on whether <b>--build</b>,
 <p style="margin-left:11%;"><b>-g</b> <i>file</i>,
 <b>--go</b>=<i>file</i></p>
 
-<p style="margin-left:14%;">Use <i>file</i> as the Go
+<p style="margin-left:17%;">Use <i>file</i> as the Go
 compiler [default: go]</p>
 
 <p style="margin-left:11%;"><b>-a</b> <i>list</i>,
 <b>--allowed</b>=<i>list</i></p>
 
-<p style="margin-left:14%;">Specify a comma-separated list
+<p style="margin-left:17%;">Specify a comma-separated list
 of allowed Go imports; if ALL (the default), allow all
 imports; if NONE, allow no imports</p>
 
 <p style="margin-left:11%;"><b>--version</b></p>
 
-<p style="margin-left:14%;">Output the <b>gosp2go</b>
+<p style="margin-left:17%;">Output the <b>gosp2go</b>
 version number and exit</p>
 
 <p style="margin-left:11%;"><b>--help</b></p>
 
-<p style="margin-left:14%;">Output <b>gosp2go</b> usage
+<p style="margin-left:17%;">Output <b>gosp2go</b> usage
 information and exit</p>
 
 ## SEE ALSO
