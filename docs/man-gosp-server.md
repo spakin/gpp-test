@@ -25,43 +25,40 @@ the Go Server Pages Apache module.</p>
 
 <p style="margin-left:11%; margin-top: 1em"><b>--file</b>=<i>file</i></p>
 
-<p style="margin-left:17%;">File name from which to read a
+<p style="margin-left:14%;">File name from which to read a
 JSON request</p>
 
 <p style="margin-left:11%;"><b>--http-headers</b>=mod_gosp|raw|none</p>
 
-<p style="margin-left:17%;">HTTP header format: mod_gosp
+<p style="margin-left:14%;">HTTP header format: mod_gosp
 for internal communication with the Go Server Pages Apache
 module, raw for textual &quot;<i>key</i>: <i>value</i>&quot;
 lines followed by a blank line, or none for ignoring HTTP
 headers (default: mod_gosp)</p>
 
-
 <p style="margin-left:11%;"><b>--max-idle</b>=<i>duration</i></p>
 
-<p style="margin-left:17%;">Maximum idle time before
+<p style="margin-left:14%;">Maximum idle time before
 automatic server exit or 0s for infinite (default: 5m0s)</p>
-
 
 <p style="margin-left:11%;"><b>--plugin</b>=<i>file</i></p>
 
-<p style="margin-left:17%;">Name of a plugin compiled from
+<p style="margin-left:14%;">Name of a plugin compiled from
 a Go Server Page by <b>gosp2go</b></p>
-
 
 <p style="margin-left:11%;"><b>--socket</b>=<i>file</i></p>
 
-<p style="margin-left:17%;">Unix socket (filename) on which
+<p style="margin-left:14%;">Unix socket (filename) on which
 to listen for JSON requests</p>
 
 <p style="margin-left:11%;"><b>--version</b></p>
 
-<p style="margin-left:17%;">Output <b>gosp-server</b> usage
+<p style="margin-left:14%;">Output <b>gosp-server</b> usage
 information and exit</p>
 
 <p style="margin-left:11%;"><b>--help</b></p>
 
-<p style="margin-left:17%;">Output the <b>gosp-server</b>
+<p style="margin-left:14%;">Output the <b>gosp-server</b>
 version number and exit</p>
 
 <p style="margin-left:11%; margin-top: 1em">The --plugin
